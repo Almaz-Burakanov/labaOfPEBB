@@ -35,7 +35,7 @@ public class PEBB extends JFrame{
 		l22.setLocation(630,50); 
 		panel.add(l22); 
 		
-		JLabel l23 = new JLabel("Печенкина"); 
+		JLabel l23 = new JLabel("Печенкина nasta-kuprienko@mail.ru"); 
 		l23.setSize(600, 35); 
 		l23.setLocation(630,65); 
 		panel.add(l23); 
