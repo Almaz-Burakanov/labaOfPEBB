@@ -20,7 +20,7 @@ public class PEBB extends JFrame{
 		l1.setLocation(10,20); 
 		panel.add(l1); 
 
-		JLabel l2 = new JLabel("Бураканов"); 
+		JLabel l2 = new JLabel("Бураканов almazbs@mail.ru"); 
 		l2.setSize(600, 35); 
 		l2.setLocation(630,20); 
 		panel.add(l2); 
